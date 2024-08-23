@@ -1,2 +1,1 @@
-# JSASIS
-A code repo for javascript series 
+console.log("Ashish")
