@@ -11,3 +11,9 @@ Non-Primitive datatype
 1.Array
 2.Objects
 3.Functions */
+//         
+
+//                  Memory
+let myYoutubename = "AshishMandalYT"
+let anothername = myYoutubename
+console.log(anothername);                //Result =  AshsihMandalYT
